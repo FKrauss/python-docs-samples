@@ -49,6 +49,12 @@ Install Dependencies
         $ virtualenv env
         $ source env/bin/activate
 
+#. Navigate to the right folder (as virtualenv will get to to the root of the repo)
+
+    .. code-block:: bash
+
+        $ cd bigquery/cloud-client
+
 #. Install the dependencies needed to run the samples.
 
     .. code-block:: bash
